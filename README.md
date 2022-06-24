@@ -3,11 +3,13 @@
 
 ## Rumbling among data and creativity 
 
-We started a quest witht a good friend looking for tools and techniques applications that we like to share, inspire and learn from the process as continue growing.\ 
-Any notes are more than wellcome.\
+We started a quest witht a good friend looking for tools and techniques applications that we like to share, inspire and learn from the process as continue growing.\
+Any notes are more than wellcome.
 
-Regrads\, 
+Regrads,
 
 \- Fco
 
+##
+Some more beyond Github -> www.dataclysmic.com
 
